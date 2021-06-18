@@ -26,3 +26,15 @@
 * uv mapping uv贴图
 
 材质映射到各个mesh的面
+
+* 立方体
+    > 0 : z正方向
+1: z负方向
+2：x正方向
+3：x负方向
+4：y正方向
+5：y负方向
+* 纹理集合 Texture Atlas
+    > uv贴图 bottom-left起算
+* 颜色
+* 纹理与颜色组合
