@@ -4,6 +4,8 @@
 
 ```mermaid
 classDiagram
+
+%% 
 class Light {
     <<abstract>>
     +Color3 diffuse
